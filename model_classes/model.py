@@ -1,6 +1,6 @@
 import tensorflow as tf
 import numpy as np
-from log_callback import LogCallback
+from .log_callback import LogCallback
 
 
 class Model():
