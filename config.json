@@ -1,0 +1,8 @@
+{
+    "functions": [
+        {"function_name": "quadratic", "start_range": -5, "end_range": 5, "function_step": 1e-2},
+        {"function_name": "tan", "start_range": -1, "end_range": 1, "function_step": 1e-2}
+],
+    "hidden_states": [64],
+    "epochs": 20
+}
