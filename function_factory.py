@@ -1,8 +1,8 @@
-from base_function import BaseFunction
-from sine_function import SineFunction
-from cosine_function import CosineFunction
-from quadratic_function import QuadraticFunction
-from tan_function import TanFunction
+from functions.base_function import BaseFunction
+from functions.sine_function import SineFunction
+from functions.cosine_function import CosineFunction
+from functions.quadratic_function import QuadraticFunction
+from functions.tan_function import TanFunction
 
 
 class FunctionFactory:

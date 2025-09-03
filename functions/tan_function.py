@@ -1,4 +1,4 @@
-import base_function
+from . import base_function
 import numpy as np
 
 from typing import Tuple
